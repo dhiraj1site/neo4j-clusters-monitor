@@ -7,14 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [
-    "neo4j",
-    "neo4j",
-    "clusters",
-    "neo4j",
-    "clusters",
-    "monitor"
-  ],
+  "keywords": ["clusters", "neo4j", "monitor"],
   "author": "Dhiraj",
   "license": "ISC",
   "dependencies": {
