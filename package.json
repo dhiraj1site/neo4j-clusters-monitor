@@ -1,0 +1,24 @@
+{
+  "name": "neo4j-monitoring",
+  "version": "1.0.0",
+  "description": "A nodejs package allowing to monitor clusters health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "neo4j",
+    "neo4j",
+    "clusters",
+    "neo4j",
+    "clusters",
+    "monitor"
+  ],
+  "author": "Dhiraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "neo4j-driver": "^1.7.2"
+  }
+}
